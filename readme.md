@@ -3,7 +3,7 @@
 <table>
     <tr>
     <th colspan="2">
-    <a href="https://lucasjcfreire.github.io/challenges/frontend-mentor/01-newbie/nft-preview-card-component-main/" title="Click to access deploy">
+    <a href="https://lucasjcfreire.github.io/nft-preview-card-component-main/" title="Click to access deploy">
       <img src="./images/preview.png" />
       <p>Click to access deploy!</p>
     </a>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <th colspan="2">
-      <a href="https://github.com/LucasJCFreire/challenges" title="Explore more challenges by clicking here">
+      <a href="https://challenges-lucasjcfreire.vercel.app/" title="Explore more challenges by clicking here">
         <img src="https://raw.githubusercontent.com/LucasJCFreire/LucasJCFreire/main/assets/images/challenges_main.png" alt="Challenges Banner"/>
         <p>Explore more challenges by clicking here!</p>
       </a>
